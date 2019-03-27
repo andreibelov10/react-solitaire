@@ -12,7 +12,7 @@ React for view, Redux for state, mocha and unexpected-react for testing, Webpack
 
 Clone git repo:
 
-    git clone https://github.com/pl12133/react-solitaire/
+    git clone https://github.com/andreibelov10/react-solitaire.git
     cd react-solitaire
 
 Install:
